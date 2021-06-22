@@ -1,1 +1,1 @@
-https://github.com/abdelhadi-nofal/chess-board/pull/1
+https://github.com/abdelhadi-nofal/chess-board/pull/2
